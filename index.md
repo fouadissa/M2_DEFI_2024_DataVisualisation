@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>Projet de Visualisation de Données</title>
@@ -69,6 +68,7 @@
 <body>
     <header>
         <h1>Projet de Visualisation de Données</h1>
+        <img src="https://media.npr.org/assets/img/2013/07/05/johnpaulii052way_custom-0e0891dcc3a65c7d8ee7bcf26caaf2033e908ca5-s1100-c50.jpg" alt="John Paul II">
     </header>
 
     <div class="container">
