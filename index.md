@@ -1,8 +1,12 @@
 <html>
 <head>
-    <title>Projet de Visualisation de Données</title>
+    <title>Projet de Visualisation de Données : </br>Les Papes </title>
     
     <style>
+	img {
+            max-width: 100%;
+            height: auto;
+        }
         body {
             font-family: Arial, sans-serif;
             margin: 0;
