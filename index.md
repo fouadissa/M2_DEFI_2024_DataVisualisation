@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Projet de Visualisation de Données : </br>Les Papes </title>
+    <title>Projet de Visualisation de Données : <br>Les Papes </title>
     
     <style>
 	img {
