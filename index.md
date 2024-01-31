@@ -166,8 +166,8 @@
 	    <p>Ceci est une visualisation interactive sous forme de quiz créée avec Flourish, abordant le thème de l'origine géographique des papes. Testez vos connaissances en répondant à une série de questions sur l'origine des papes à travers le monde. </p>
 <div id="viz-container-5">
                 <div class="flourish-embed flourish-quiz" data-src="visualisation/16636627"><script src="https://public.flourish.studio/resources/embed.js"></script></div> </div> </div> 
-            
-	    
-        
+            <div class="section">
+	<p>  J'ai traduit cette page en langage Markdown avec ChatGPT, mais toutes les fonctionnalités n'ont pas pu être retenues, comme le précise ChatGPT : "Notez que les éléments HTML spécifiques comme les iframe pour les visualisations intégrées et certains éléments de mise en page ne peuvent pas être convertis directement en Markdown et ont été omis ou simplifiés dans cette conversion" : <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/GPT.md"GPT.md</a>  </p>
+        </div>
 </body>
 </html>
