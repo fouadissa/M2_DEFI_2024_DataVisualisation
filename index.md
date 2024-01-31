@@ -151,8 +151,8 @@
  <div class="section">
             <h2>frise chronologique des papes depuis le XVIIIe siècle</h2>
             <p>J'ai voulu créer une visualisation d'une frise chronologique de tous les papes depuis le XVIIIe siècle, avec leurs dates de début et de fin de pontificat, en utilisant le jeu de données de Wikidata. J'ai demandé à Wikidata de me donner l'année, le jour et le mois de début de pontificat sous forme numérique et dans des colonnes séparées, et de même pour la fin de pontificat. Voici le résultat que j'ai obtenu : <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/capture_ecran_wikidata_pontificats.png">capture_ecran_wikidata_pontificats.png</a>, et voici le jeu de données : <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/Papes_pontifcats.xls">Papes_pontifcats.xls</a>. Ensuite, j'ai unifié les dates de début et de fin de pontificat sur <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/fusion_colonne.png">Capture_Openrefine</a> pour obtenir des données au format YYYY-MM-DD, compatible avec le Gantt Chart de <a href="https://app.rawgraphs.io/">rawgraphs</a>.</p>
-	 <div id="viz-container-4">
-               <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/Papes_pontifcats.xls">Papes_pontifcats.xls</a
+	 <div id="viz-container-5">
+               <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/Frise.svg">Frises.svg</a
         </div>
     </div>
         <div class="section">
