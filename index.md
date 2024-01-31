@@ -129,8 +129,7 @@
         </div>
 	<div class="section">
             <h2>Nombre de Papes par pays</h2>
-	    <p>Ceci est une visualisation de données réalisée sur le site Flourish intitulée "Graphique en anneau". Cette visualisation représente le nombre de Papes par pays. Le jeu de données utilisé pour cette visualisation provient du site <a href="https://worldpopulationreview.com/country-rankings/popes-by-country">World Population Review - Popes by Country</a>
-            . </p>
+	    <p>Pour réaliser la visualisation des données "Graphique en anneau" sur Flourish, j'ai manuellement copié les informations nécessaires depuis le site <a href="https://worldpopulationreview.com/country-rankings/popes-by-country">World Population Review - Popes by Country</a> , car le téléchargement des données requérait la fourniture d'une adresse e-mail, ce que je souhaitais éviter. Après avoir traduit les noms des pays en français, ces données, qui comprenaient le pays et le nombre de papes correspondant, ont été ajoutées à un graphique en anneau sur Flourish pour une représentation visuelle claire du nombre de papes par pays.Les données sont accessible sur mon répertoire GitHub sous le nom de fichier "nbre_papes_pays.ods". Vous pouvez accéder à ces données pour une étude plus approfondie ou pour les utiliser dans d'autres projets. </p>
 <div id="viz-container-3">
                 <div class="flourish-embed flourish-chart" data-src="visualisation/16636121"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
             </div>
@@ -139,7 +138,7 @@
 
  <div class="section">
             <h2>Nombre de Papes par continent</h2>
-	    <p>Cette nouvelle visualisation de données, également réalisée sur le site Flourish, prend la forme d'un 'Graphique en anneau' et présente le nombre de papes par continent. Les données utilisées dans cette visualisation sont extraites de la précédente, qui se basait sur le jeu de données provenant du site <a href="https://worldpopulationreview.com/country-rankings/popes-by-country">World Population Review - Popes by Country</a>
+	    <p>Cette nouvelle visualisation de données, également réalisée sur le site Flourish, prend la forme d'un "Graphique en anneau" et présente le nombre de papes par continent. Les données utilisées dans cette visualisation sont extraites de la précédente, qui se basait sur le jeu de données provenant du site <a href="https://worldpopulationreview.com/country-rankings/popes-by-country">World Population Review - Popes by Country</a> Elle s'appuie sur des données que j'ai compilées dans un fichier intitulé "nbre_papes_continent.ods", que vous pouvez trouver dans mon répertoire GitHub. Ces données ont été élaborées manuellement à partir du fichier "nbre_papes_pays.ods", en additionnant les nombres de papes issus des pays européens, asiatiques (spécifiquement de l'Asie de l'Ouest), américains (en se concentrant sur l'Amérique du Sud) et africains (en se focalisant sur l'Afrique du Nord), afin d'apporter une précision géographique accrue à la visualisation.
             . </p>
 <div id="viz-container-4">
                <div class="flourish-embed flourish-chart" data-src="visualisation/16636788"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
