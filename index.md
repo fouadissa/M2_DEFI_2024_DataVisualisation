@@ -78,7 +78,7 @@
     <div class="container">
         <div class="section">
             <h2>Introduction</h2>
-            <p> Mon projet consiste à présenter une carte du monde indiquant les pays de naissance des papes pour donner un aperçu d'où proviennent la plupart des papes, en termes de continents et de pays. Je vais également créer une page affichant une grille d'images des papes, ainsi qu'une visualisation du nombre de papes par pays.</p>
+            <p> Mon projet vise à présenter une carte mondiale indiquant les pays de naissance des papes, offrant un aperçu global de leurs origines. En plus d'une page montrant une grille d'images des papes, j'ai également créé des visualisations détaillant le nombre de papes par pays et par continent. Cette approche multiple permet une compréhension approfondie de la répartition géographique des papes au fil de l'histoire, mettant en lumière l'influence dominante de certains pays et continents dans la formation de la papauté.</p>
         </div>
 
         <div class="section">
@@ -140,11 +140,12 @@
 <div id="viz-container-4">
                <div class="flourish-embed flourish-chart" data-src="visualisation/16636788"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
             </div>
-	    <p>À l'échelle mondiale, l'Europe compte un total de 252 papes en 2024, avec une diversité géographique notable parmi les papes européens originaires de pays tels que la France, l'Allemagne, la Grèce, l'Espagne, le Portugal, la Croatie, le Royaume-Uni, la Pologne et les Pays-Bas.</p>
+	    <p>
+À l'échelle mondiale, l'Europe a fourni 252 papes jusqu'en 2024, représentant 94,74% du total des papes. Cette donnée souligne la diversité géographique des origines des papes européens, issus de pays tels que l'Italie, la France, l'Allemagne, la Grèce, l'Espagne, le Portugal, la Croatie, le Royaume-Uni, la Pologne et les Pays-Bas.</p>
         </div>
         <div class="section">
             <h2>Conclusion</h2>
-            <p>En conclusion</p>
+            <p>En conclusion, cette étude de l'origine géographique des papes révèle une prédominance européenne marquée, avec une concentration particulièrement forte en Italie. Cette distribution souligne l'influence historique et culturelle de l'Europe sur la papauté. Les visualisations créées offrent une perspective claire et accessible de cette tendance, enrichissant notre compréhension de l'histoire de la papauté et de son impact à travers les âges.</p>
         </div>
     </div>
 <div class="section">
