@@ -129,7 +129,7 @@
         </div>
 	<div class="section">
             <h2>Nombre de Papes par pays</h2>
-	    <p>Pour réaliser la visualisation des données "Graphique en anneau" sur Flourish, j'ai manuellement copié les informations nécessaires depuis le site <a href="https://worldpopulationreview.com/country-rankings/popes-by-country">World Population Review - Popes by Country</a> , car le téléchargement des données requérait la fourniture d'une adresse e-mail, ce que je souhaitais éviter. Après avoir traduit les noms des pays en français, ces données, qui comprenaient le pays et le nombre de papes correspondant, ont été ajoutées à un graphique en anneau sur Flourish pour une représentation visuelle claire du nombre de papes par pays. Les données sont accessible sur mon répertoire GitHub sous le nom de fichier "nbre_papes_pays.ods". Vous pouvez accéder à ces données pour une étude plus approfondie ou pour les utiliser dans d'autres projets. </p>
+	    <p>Pour réaliser la visualisation des données "Graphique en anneau" sur Flourish, j'ai manuellement copié les informations nécessaires depuis le site <a href="https://worldpopulationreview.com/country-rankings/popes-by-country">World Population Review - Popes by Country</a> , car le téléchargement des données requérait la fourniture d'une adresse e-mail, ce que je souhaitais éviter. Après avoir traduit les noms des pays en français, ces données, qui comprenaient le pays et le nombre de papes correspondant, ont été ajoutées à un graphique en anneau sur Flourish pour une représentation visuelle claire du nombre de papes par pays. Les données sont accessible sur mon répertoire GitHub sous le nom de fichier <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/nbre_papes_pays.ods">. Vous pouvez accéder à ces données pour une étude plus approfondie ou pour les utiliser dans d'autres projets. </p>
 <div id="viz-container-3">
                 <div class="flourish-embed flourish-chart" data-src="visualisation/16636121"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
             </div>
@@ -146,6 +146,13 @@
 	    <p>
 À l'échelle mondiale, l'Europe a fourni 252 papes jusqu'en 2024, représentant 94,74% du total des papes. Cette donnée souligne la diversité géographique des origines des papes européens, issus de pays tels que l'Italie, la France, l'Allemagne, la Grèce, l'Espagne, le Portugal, la Croatie, le Royaume-Uni, la Pologne et les Pays-Bas.</p>
         </div>
+
+
+ <div class="section">
+            <h2>Idées Non Concrétisées</h2>
+            <p>J'ai voulu créer une visualisation d'une frise chrnologique de tout les papes avec leurs dates de début et de fin de ponctificat en utilsiant le jeux de données de wikidata. Sauf que j'étais fasse à </p>
+        </div>
+    </div>
         <div class="section">
             <h2>Conclusion</h2>
             <p>En conclusion, cette étude de l'origine géographique des papes révèle une prédominance européenne marquée, avec une concentration particulièrement forte en Italie. Cette distribution souligne l'influence historique et culturelle de l'Europe sur la papauté. Les visualisations créées offrent une perspective claire et accessible de cette tendance, enrichissant notre compréhension de l'histoire de la papauté et de son impact à travers les âges.</p>
