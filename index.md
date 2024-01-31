@@ -78,7 +78,7 @@
     <div class="container">
         <div class="section">
             <h2>Introduction</h2>
-            <p> Mon projet consiste à expliquer les </p>
+            <p> Mon projet consiste à présenter une carte du monde indiquant les pays de naissance des papes pour avoir un apercu ou est-ce que les papes viennent le plus, de quelles continent et de quelles pays. Je vais également présenter une page de grille des images des papes. Ansi qu'une visualisation des </p>
         </div>
 
         <div class="section">
@@ -112,7 +112,12 @@
                 <iframe style="width: 80vw; height: 50vh; border: none;" src="https://query.wikidata.org/embed.html#%23defaultView%3AImageGrid%0ASELECT%20%3Fpope%20%3FpopeLabel%20%3Fimage%0AWHERE%20%7B%0A%20%20%3Fpope%20wdt%3AP39%20wd%3AQ19546%3B%20%23%20Position%20held%3A%20Pope%0A%20%20%20%20%20%20%20%20wdt%3AP18%20%3Fimage.%20%20%20%20%20%20%23%20Property%3A%20image%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cfr%22.%20%7D%0A%7D" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
             </div>
         </div>
-
+	<div class="section">
+            <h2>Visualisation #3</h2>
+<div id="viz-container-3">
+                <div class="flourish-embed flourish-chart" data-src="visualisation/16636121"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+            </div>
+        </div>
         <div class="section">
             <h2>Conclusion</h2>
             <p>En conclusion</p>
