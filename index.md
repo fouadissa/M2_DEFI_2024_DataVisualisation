@@ -107,7 +107,7 @@
     </div>
     <p>Ce code est une requête SPARQL pour Wikidata, conçue pour récupérer des informations sur les papes. Elle sélectionne le nom du pape (papeLabel), les dates de début et de fin de son pontificat, les coordonnées géographiques de son lieu de naissance, et une image associée. La requête ordonne les résultats par date de début de pontificat et utilise le service de labels pour obtenir les noms en français. Elle est conçue pour afficher les résultats sous forme de carte grâce à l'instruction #defaultView:Map.</p>
 
-        </div>
+        </div></div>
 
         <div class="section">
             <h2>Images des Papes</h2>
@@ -145,7 +145,7 @@
             </div>
 	    <p>
 À l'échelle mondiale, l'Europe a fourni 252 papes jusqu'en 2024, représentant 94,74% du total des papes. Cette donnée souligne la diversité géographique des origines des papes européens, issus de pays tels que l'Italie, la France, l'Allemagne, la Grèce, l'Espagne, le Portugal, la Croatie, le Royaume-Uni, la Pologne et les Pays-Bas.</p>
-        </div>
+        </div></div>
 
 
  <div class="section">
