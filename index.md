@@ -133,6 +133,15 @@
             </div>
 	    <p>Nous pouvons constater qu'avec 217 papes, l'Italie représente l'écrasante majorité des papes, qui totalisent 266 au total. Les papes italiens représentent ainsi 81,58% des papes en 2024.</p>
         </div>
+
+ <div class="section">
+            <h2>Nombre de Papes par continent</h2>
+	    <p>Cette nouvelle visualisation de données, également réalisée sur le site Flourish, prend la forme d'un 'Graphique en anneau' et présente le nombre de papes par continent. Les données utilisées dans cette visualisation sont extraites de la précédente, qui se basait sur le jeu de données provenant du site https://worldpopulationreview.com/country-rankings/popes-by-country. </p>
+<div id="viz-container-4">
+               <div class="flourish-embed flourish-chart" data-src="visualisation/16636788"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+            </div>
+	    <p>À l'échelle mondiale, l'Europe compte un total de 252 papes en 2024, avec une diversité géographique notable parmi les papes européens originaires de pays tels que la France, l'Allemagne, la Grèce, l'Espagne, le Portugal, la Croatie, le Royaume-Uni, la Pologne et les Pays-Bas.</p>
+        </div>
         <div class="section">
             <h2>Conclusion</h2>
             <p>En conclusion</p>
@@ -141,7 +150,7 @@
 <div class="section">
             <h2>Quiz</h2>
 	    <p>Ceci est une visualisation interactive sous forme de quiz créée avec Flourish, abordant le thème de l'origine géographique des papes. Testez vos connaissances en répondant à une série de questions sur l'origine des papes à travers le monde. </p>
-<div id="viz-container-3">
+<div id="viz-container-5">
                 <div class="flourish-embed flourish-quiz" data-src="visualisation/16636627"><script src="https://public.flourish.studio/resources/embed.js"></script></div></div> 
             </div>
 	    
