@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Projet de Visualisation de Données : <br>Les Papes </title>
+    <title>Origine géographique des papes</title>
     
     <style>
 	img {
@@ -71,7 +71,7 @@
 
 <body>
     <header>
-        <h1>Projet de Visualisation de Données</h1>
+        <h1>Origine géographique des papes</h1>
         <img src="https://media.npr.org/assets/img/2013/07/05/johnpaulii052way_custom-0e0891dcc3a65c7d8ee7bcf26caaf2033e908ca5-s1100-c50.jpg" alt="John Paul II">
     </header>
 
@@ -138,6 +138,13 @@
             <p>En conclusion</p>
         </div>
     </div>
-
+<div class="section">
+            <h2>Quiz</h2>
+	    <p>Ceci est une visualisation interactive sous forme de quiz créée avec Flourish, abordant le thème de l'origine géographique des papes. Testez vos connaissances en répondant à une série de questions sur l'origine des papes à travers le monde. </p>
+<div id="viz-container-3">
+                <div class="flourish-embed flourish-quiz" data-src="visualisation/16636627"><script src="https://public.flourish.studio/resources/embed.js"></script></div></div>
+            </div>
+	    
+        </div>
 </body>
 </html>
