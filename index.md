@@ -167,7 +167,7 @@
 <div id="viz-container-5">
                 <div class="flourish-embed flourish-quiz" data-src="visualisation/16636627"><script src="https://public.flourish.studio/resources/embed.js"></script></div> </div> </div> 
             <div class="section">
-	<p>  J'ai traduit cette page en langage Markdown avec ChatGPT, mais toutes les fonctionnalités n'ont pas pu être retenues, comme le précise ChatGPT : "Notez que les éléments HTML spécifiques comme les iframe pour les visualisations intégrées et certains éléments de mise en page ne peuvent pas être convertis directement en Markdown et ont été omis ou simplifiés dans cette conversion" : <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/GPT.md"GPT.md</a>  </p>
+	<p>  J'ai traduit cette page en langage Markdown avec ChatGPT, mais toutes les fonctionnalités n'ont pas pu être retenues, comme le précise ChatGPT : "Notez que les éléments HTML spécifiques comme les iframe pour les visualisations intégrées et certains éléments de mise en page ne peuvent pas être convertis directement en Markdown et ont été omis ou simplifiés dans cette conversion" : </p> <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/GPT.md"GPT.md</a>  
         </div>
 </body>
 </html>
