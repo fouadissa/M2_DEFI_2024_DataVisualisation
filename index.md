@@ -73,8 +73,8 @@
     <header>
         <h1>Origine géographique des papes</h1>
         <img src="https://media.npr.org/assets/img/2013/07/05/johnpaulii052way_custom-0e0891dcc3a65c7d8ee7bcf26caaf2033e908ca5-s1100-c50.jpg" alt="Jean Paul II">
-        <p>Source de l'image: <a href="https://media.npr.org/assets/img/2013/07/05/johnpaulii052way_custom-0e0891dcc3a65c7d8ee7bcf26caaf2033e908ca5-s1100-c50.jpg">NPR</a></p>
-        <p>Description: Image de Jean Paul II</p>
+        <p>Source de l'image: <a href="https://media.npr.org/assets/img/2013/07/05/johnpaulii052way_custom-0e0891dcc3a65c7d8ee7bcf26caaf2033e908ca5-s1100-c50.jpg">National Public Radio</a></p>
+        <p>Jean Paul II</p>
     </header>
 
     <div class="container">
@@ -129,7 +129,7 @@
         </div>
 	<div class="section">
             <h2>Nombre de Papes par pays</h2>
-	    <p>Pour réaliser la visualisation des données "Graphique en anneau" sur Flourish, j'ai manuellement copié les informations nécessaires depuis le site <a href="https://worldpopulationreview.com/country-rankings/popes-by-country">World Population Review - Popes by Country</a> , car le téléchargement des données requérait la fourniture d'une adresse e-mail, ce que je souhaitais éviter. Après avoir traduit les noms des pays en français, ces données, qui comprenaient le pays et le nombre de papes correspondant, ont été ajoutées à un graphique en anneau sur Flourish pour une représentation visuelle claire du nombre de papes par pays. Les données sont accessible sur mon répertoire GitHub sous le nom de fichier <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/nbre_papes_pays.ods">. Vous pouvez accéder à ces données pour une étude plus approfondie ou pour les utiliser dans d'autres projets. </p>
+	    <p>Pour réaliser la visualisation des données "Graphique en anneau" sur Flourish, j'ai manuellement copié les informations nécessaires depuis le site <a href="https://worldpopulationreview.com/country-rankings/popes-by-country">World Population Review - Popes by Country</a> , car le téléchargement des données requérait la fourniture d'une adresse e-mail, ce que je souhaitais éviter. Après avoir traduit les noms des pays en français, ces données, qui comprenaient le pays et le nombre de papes correspondant, ont été ajoutées à un graphique en anneau sur Flourish pour une représentation visuelle claire du nombre de papes par pays. Les données sont accessible sur mon répertoire GitHub sous le nom de fichier <a href="https://github.com/fouadissa/M2_DEFI_2024_DataVisualisation/blob/main/nbre_papes_pays.ods">nbre_papes_pays.ods</a>. Vous pouvez accéder à ces données pour une étude plus approfondie ou pour les utiliser dans d'autres projets. </p>
 <div id="viz-container-3">
                 <div class="flourish-embed flourish-chart" data-src="visualisation/16636121"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
             </div>
