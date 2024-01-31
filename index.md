@@ -157,7 +157,7 @@
             <h2>Conclusion</h2>
             <p>En conclusion, cette étude de l'origine géographique des papes révèle une prédominance européenne marquée, avec une concentration particulièrement forte en Italie. Cette distribution souligne l'influence historique et culturelle de l'Europe sur la papauté. Les visualisations créées offrent une perspective claire et accessible de cette tendance, enrichissant notre compréhension de l'histoire de la papauté et de son impact à travers les âges.</p>
         </div>
-    </div>
+    
 <div class="section">
             <h2>Quiz</h2>
 	    <p>Ceci est une visualisation interactive sous forme de quiz créée avec Flourish, abordant le thème de l'origine géographique des papes. Testez vos connaissances en répondant à une série de questions sur l'origine des papes à travers le monde. </p>
